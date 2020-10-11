@@ -17,8 +17,8 @@ point
 ## How to build, run and test
 ```
 # build
-cd base64comp
-./mvwn package
+cd <base64comp_dir>
+mvn package
     
 # run
 cd target
